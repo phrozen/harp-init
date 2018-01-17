@@ -1,0 +1,7 @@
+{
+  "globals": {
+    "title": "New Site",
+    "url": "http://example.com",
+    "github": "https://github.com/phrozen/harp-init"
+  }
+}
